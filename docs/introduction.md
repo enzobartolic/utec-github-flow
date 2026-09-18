@@ -9,4 +9,3 @@ New contributors can use this repository to practice how to read existing docume
 
 
 This introduction has been updated as part of collaborative work.
-
